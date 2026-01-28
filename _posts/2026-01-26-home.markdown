@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Home"
+date:   2026-01-26 16:48:57 -0600
+categories: home
+---
+
+Hi, I’m Naveena! I’m a software developer passionate about building web applications and backend solutions 
+using Java, React, JavaScript, HTML, and CSS. 
+I enjoy creating user-friendly interfaces, writing maintainable code, and solving real-world problems through technology. 
+I’m seeking opportunities to contribute to meaningful projects while continuing to grow my skills.
