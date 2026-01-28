@@ -1,3 +1,9 @@
+---
+layout: page
+title: About
+permalink: /about/
+---
+
 I recently completed LaunchCode’s software development program, where I built projects using Java, React, JavaScript, HTML,
 Spring, Spring boot and CSS. 
 I have experience analyzing systems, troubleshooting issues, and working in collaborative environments. 
