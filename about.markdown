@@ -1,18 +1,6 @@
----
-layout: page
-title: About
-permalink: /about/
----
-
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+I recently completed LaunchCode’s software development program, where I built projects using Java, React, JavaScript, HTML,
+Spring, Spring boot and CSS. 
+I have experience analyzing systems, troubleshooting issues, and working in collaborative environments. 
+My previous experience in support and system analysis taught me problem-solving, communication, and teamwork skills, 
+which I now bring to software development. 
+I enjoy creating clean, responsive user interfaces and building backend logic with Java to support application functionality.
