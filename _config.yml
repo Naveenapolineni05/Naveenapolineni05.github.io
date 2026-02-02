@@ -30,7 +30,7 @@ twitter_username: naveenapolineni
 github_username:  naveenapolineni05
 
 # Build settings
-theme: jekyll-theme-hacker
+theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
 
