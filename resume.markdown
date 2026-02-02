@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Resume and Achievements
 permalink: /resume/
 ---
